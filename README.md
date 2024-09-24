@@ -15,7 +15,7 @@ This project is a simple TV Show search application built using Vue 3, TypeScrip
 
     ```bash
     git clone https://github.com/aksoyhakan/tv-show.git
-    cd tv-show-app
+    cd tv-show
     ```
 
 2. Install dependencies:
